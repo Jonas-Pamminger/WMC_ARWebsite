@@ -5,6 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 
 header
@@ -103,6 +104,13 @@ section::before
     font-size: 3.5em;
     margin-top: 10px;
     color: #FFFFFF;
+}
+.sec h3
+{
+    font-size: 1.3em;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    color: #7597de;
 }
 .sec p
 {
