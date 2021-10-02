@@ -1,29 +1,55 @@
-:toc : ftetst
+= AR VIEWER
 
+== Goals
 
-= Hello
+* Let users watch 3D modules in the web
 
+* A site where you can find out everything about AR
 
+* Expanded the real world with our webside
 
-Hello Word.
+* We also what the try to cooperate with real companies
 
-== Saller Headline
+== Risks
 
-=== Even Smaller Headline
+* There is to less computing power for our project
 
-* First
-** Datail
+* It's too difficult to code it from scratch
 
-*** Second
+* That we don't have enough time to finish it
 
-. One
+== Main Tasks
 
-.. One. One
+* Nice frontend
 
-. Tow
+** Deadline: 17.10.2021
 
-----
-function  foo() {
-    Joe
-}
+* The text for our information page
+
+** Deadline: 17.10.2021
+
+* Make a 3D models viewer in the web on a black background
+
+** Deadline: till the middle of the second semester
+
+* Try to get our 3D models in the real world
+
+** Deadline: 2 weeks before the presentation
+
+* Make a good structured presentation
+
+** Deadline: 1 week before the presentation
+
+== Project Members
+
+* Noah Grundner
+
+** Leader of frontend
+
+** Leader of the structure of the website
+
+* Jonas Pamminger
+
+** Leader of backend
+
 
