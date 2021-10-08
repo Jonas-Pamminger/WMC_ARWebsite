@@ -40,6 +40,24 @@
 
 ** Deadline: 1 week before the presentation
 
+== Static Part
+
+=== We are making an information page about AR and VR.
+
+* What's the different between AR and VR?
+
+* How can someone use AR and VR?
+
+* The history of AR and VR
+
+* The risks of AR and VR
+
+== Dynamic Part
+
+We are making a page were you can view a 3D models first on a black
+background and after that we want to bring our 3D moduls on the real
+world using AR
+
 == Project Members
 
 * Noah Grundner
