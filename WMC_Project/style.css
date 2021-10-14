@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+@i@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
 *
 {
     margin: 0;
@@ -107,13 +107,19 @@ section::before
 }
 .sec h3
 {
-    font-size: 1.3em;
+    font-size: 1.4em;
     margin-top: 10px;
     margin-bottom: 7px;
     color: #7597de;
 }
 .sec p
 {
-    font-size: 1.2em;
+    font-size: 1em;
     color: #FFFFFF;
+}
+.sec ul
+{
+    color: #FFFFFF;
+    font-size: 1em;
+    list-style-position: inside;
 }
