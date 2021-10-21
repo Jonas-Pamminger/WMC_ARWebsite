@@ -6,10 +6,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
+    background: linear-gradient(to bottom, #1c0522, #7597de);
+    background-attachment: fixed;
 }
 
 header
 {
+    background: transparent;
     position: absolute;
     top: 0;
     left: 0;
@@ -27,6 +30,7 @@ header .logo
     text-decoration: none;
     font-size: 2em;
     text-transform: uppercase;
+    background: transparent;
     letter-spacing: 2px;
 }
 header ul
@@ -34,14 +38,17 @@ header ul
     display: flex;
     justify-content: center;
     align-items: center;
+    background: transparent;
 }
 header ul li
 {
     list-style: none;
     margin-left: 20px;
+    background: transparent;
 }
 header ul li a
 {
+    background: transparent;
     text-decoration: none;
     padding: 6px 15px;
     color: #FFFFFF;
@@ -55,6 +62,7 @@ header ul li a.active
 }
 section
 {
+    background: transparent;
     position: relative;
     width: 100%;
     height: 100vh;
@@ -71,7 +79,7 @@ section::before
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to top, #1c0522, #7597de);
+
 }
 #header
 {
@@ -80,6 +88,7 @@ section::before
     white-space: nowrap;
     font-size: 7.5vw;
     z-index: 9;
+    background: transparent;
 }
 #exploreBtn
 {
@@ -97,13 +106,15 @@ section::before
 {
     position: relative;
     padding: 100px;
-    background: #1c0522;
+    background: transparent;
+
 }
 .sec h2
 {
     font-size: 3.5em;
     margin-top: 10px;
     color: #FFFFFF;
+    background: transparent;
 }
 .sec h3
 {
@@ -111,15 +122,22 @@ section::before
     margin-top: 10px;
     margin-bottom: 7px;
     color: #7597de;
+    background: transparent;
 }
 .sec p
 {
     font-size: 1em;
     color: #FFFFFF;
+    background: transparent;
 }
 .sec ul
 {
     color: #FFFFFF;
     font-size: 1em;
     list-style-position: inside;
+    background: transparent;
+}
+.sec ul li
+{
+    background: transparent;
 }
