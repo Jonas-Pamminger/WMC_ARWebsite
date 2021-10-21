@@ -112,6 +112,13 @@ section::before
     margin-bottom: 7px;
     color: #7597de;
 }
+.sec h4
+{
+    front-size: 1.6em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #4059df;
+}
 .sec p
 {
     font-size: 1em;
@@ -120,6 +127,6 @@ section::before
 .sec ul
 {
     color: #FFFFFF;
-    font-size: 1em;
+    font-size: 1.2em;
     list-style-position: inside;
 }

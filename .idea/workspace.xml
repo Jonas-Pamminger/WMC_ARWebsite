@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/README.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zl6bjdQYsONHD9fHs80gL7vV7J" />
@@ -40,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634710400566</updated>
       <workItem from="1634710401945" duration="37000" />
-      <workItem from="1634740735203" duration="3936000" />
+      <workItem from="1634740735203" duration="6279000" />
     </task>
     <servers />
   </component>
