@@ -6,8 +6,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
-    background: linear-gradient(to bottom, #1c0522, #7597de);
-    background-attachment: fixed;
+    background: linear-gradient(to bottom, #1c0522, #7597de) fixed;
 }
 
 header
@@ -107,7 +106,6 @@ section::before
     position: relative;
     padding: 100px;
     background: transparent;
-
 }
 .sec h2
 {
@@ -140,4 +138,16 @@ section::before
 .sec ul li
 {
     background: transparent;
+}
+#exampleBtn
+{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 40px;
+    background: #FFFFFF;
+    color: #2b1055;
+    font-size: 1.5em;
+    transform: translateY(20px);
+    z-index: 9;
 }
