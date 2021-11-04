@@ -109,14 +109,14 @@ section::before
 }
 .sec h2
 {
-    font-size: 3.5em;
+    font-size: 4em;
     margin-top: 10px;
     color: #FFFFFF;
     background: transparent;
 }
 .sec h3
 {
-    font-size: 1.4em;
+    font-size: 2em;
     margin-top: 10px;
     margin-bottom: 7px;
     color: #7597de;
@@ -124,14 +124,14 @@ section::before
 }
 .sec p
 {
-    font-size: 1em;
+    font-size: 1.1em;
     color: #FFFFFF;
     background: transparent;
 }
 .sec ul
 {
     color: #FFFFFF;
-    font-size: 1em;
+    font-size: 1.1em;
     list-style-position: inside;
     background: transparent;
 }
