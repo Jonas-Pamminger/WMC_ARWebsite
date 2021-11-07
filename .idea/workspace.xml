@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fix-backround">
-      <change afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
+    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="inplemented content on example.html page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,10 +27,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fix-backround" />
+        <entry key="$PROJECT_DIR$" value="fixListStyle" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -48,6 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../coppy/WMC_ARWebsite" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -70,7 +74,12 @@
       <workItem from="1634831261284" duration="3579000" />
       <workItem from="1635165961030" duration="1000" />
       <workItem from="1635183260629" duration="1000" />
-      <workItem from="1635235493829" duration="1165000" />
+      <workItem from="1635235493829" duration="2118000" />
+      <workItem from="1636019696752" duration="3258000" />
+      <workItem from="1636183038441" duration="2703000" />
+      <workItem from="1636210879573" duration="621000" />
+      <workItem from="1636211515186" duration="3954000" />
+      <workItem from="1636271848329" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
@@ -79,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1634834986300</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inplemented content on example.html page">
+      <created>1635236832437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635236832437</updated>
+    </task>
+    <task id="LOCAL-00003" summary="inplemented content on example.html page">
+      <created>1636271897305</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636271897305</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix-backround" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix-backround" />
+    <MESSAGE value="inplemented content on example.html page" />
+    <option name="LAST_COMMIT_MESSAGE" value="inplemented content on example.html page" />
   </component>
 </project>
