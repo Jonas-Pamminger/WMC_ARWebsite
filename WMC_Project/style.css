@@ -6,12 +6,9 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
-    background: linear-gradient(to bottom, #1c0522, #7597de) fixed;
 }
-
 header
 {
-    background: transparent;
     position: absolute;
     top: 0;
     left: 0;
@@ -29,7 +26,6 @@ header .logo
     text-decoration: none;
     font-size: 2em;
     text-transform: uppercase;
-    background: transparent;
     letter-spacing: 2px;
 }
 header ul
@@ -37,7 +33,6 @@ header ul
     display: flex;
     justify-content: center;
     align-items: center;
-    background: transparent;
 }
 header ul li
 {
@@ -87,7 +82,6 @@ section::before
     white-space: nowrap;
     font-size: 7.5vw;
     z-index: 9;
-    background: transparent;
 }
 #exploreBtn
 {
@@ -105,38 +99,42 @@ section::before
 {
     position: relative;
     padding: 100px;
-    background: transparent;
 }
 .sec h2
 {
-    font-size: 3.5em;
+    font-size: 4em;
     margin-top: 10px;
     color: #FFFFFF;
-    background: transparent;
 }
 .sec h3
 {
-    font-size: 1.4em;
+    font-size: 2em;
     margin-top: 10px;
     margin-bottom: 7px;
     color: #7597de;
-    background: transparent;
+}
+.sec h4 {
+    font-size: 1.3em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #7597de;
+
 }
 .sec p
 {
-    font-size: 1em;
+    font-size: 1.1em;
     color: #FFFFFF;
-    background: transparent;
 }
 .sec ul
 {
     color: #FFFFFF;
-    font-size: 1em;
+    font-size: 1.1em;
     list-style-position: inside;
     background: transparent;
 }
 .sec ul li
 {
+    color: #2b1055;
     background: transparent;
 }
 #exampleBtn
@@ -151,3 +149,26 @@ section::before
     transform: translateY(20px);
     z-index: 9;
 }
+#pageContent
+{
+    background: linear-gradient(to bottom, #91b793, #50727c, #292E49) fixed;
+}
+#imprint
+{
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    column-gap: 20px;
+}
+#imprint a
+{
+    color: #999da2;
+    text-decoration: none;
+}
+#imprint h3
+{
+    font-size: 2em;
+}
+
