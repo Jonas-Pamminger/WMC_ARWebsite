@@ -71,3 +71,7 @@ world using AR
 ** Leader of backend
 
 ** main author of the information page
+
+* Fabian Baitura
+
+** Content manager
