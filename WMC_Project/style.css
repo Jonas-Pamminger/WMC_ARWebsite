@@ -105,6 +105,7 @@ section::before
     font-size: 4em;
     margin-top: 10px;
     color: #FFFFFF;
+
 }
 .sec h3
 {
@@ -117,7 +118,7 @@ section::before
     font-size: 1.3em;
     margin-top: 5px;
     margin-bottom: 5px;
-    color: #7597de;
+    color: #97cedc;
 
 }
 .sec p
@@ -134,7 +135,7 @@ section::before
 }
 .sec ul li
 {
-    color: #2b1055;
+    color: #91b793;
     background: transparent;
 }
 #exampleBtn
