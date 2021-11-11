@@ -7,9 +7,6 @@
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="inplemented content on example.html page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fixListStyle" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -42,6 +38,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1zl6bjdQYsONHD9fHs80gL7vV7J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,11 +48,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../coppy/WMC_ARWebsite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,6 +78,8 @@
       <workItem from="1636210879573" duration="621000" />
       <workItem from="1636211515186" duration="3954000" />
       <workItem from="1636271848329" duration="716000" />
+      <workItem from="1636359045976" duration="150000" />
+      <workItem from="1636359309211" duration="1541000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
