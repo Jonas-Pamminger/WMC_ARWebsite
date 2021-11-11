@@ -172,4 +172,8 @@ section::before
 {
     font-size: 2em;
 }
+#backToTop
+{
+    float: right;
+}
 
