@@ -172,4 +172,14 @@ section::before
 {
     font-size: 2em;
 }
+img
+{
+    border-radius: 50%;
+    width: 200px;
+
+
+
+
+
+}
 
