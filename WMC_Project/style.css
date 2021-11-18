@@ -135,7 +135,14 @@ section::before
 }
 .sec ul li
 {
-    color: #91b793;
+    color: #FFFFFF;
+    background: transparent;
+}
+
+.sec lh
+{
+    color: #2d98df;
+    font-size: 1.5em;
     background: transparent;
 }
 #exampleBtn
