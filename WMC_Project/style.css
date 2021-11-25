@@ -82,6 +82,7 @@ section::before
     white-space: nowrap;
     font-size: 7.5vw;
     z-index: 9;
+    font-family: Roboto-Mono;
 }
 #exploreBtn
 {
@@ -105,7 +106,7 @@ section::before
     font-size: 4em;
     margin-top: 10px;
     color: #FFFFFF;
-
+    font-family: Roboto-Mono;
 }
 .sec h3
 {
@@ -145,6 +146,7 @@ section::before
     font-size: 1.5em;
     background: transparent;
 }
+
 #exampleBtn
 {
     text-decoration: none;
