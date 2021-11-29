@@ -105,7 +105,7 @@ section::before
 {
     font-size: 4em;
     margin-top: 10px;
-    color: #FFFFFF;
+    color: #55B2D8;
     font-family: Roboto-Mono;
 }
 .sec h3
@@ -113,7 +113,7 @@ section::before
     font-size: 2em;
     margin-top: 10px;
     margin-bottom: 7px;
-    color: #7597de;
+    color: #97cedc;
 }
 .sec h4 {
     font-size: 1.3em;
@@ -142,8 +142,8 @@ section::before
 
 .sec lh
 {
-    color: #2d98df;
-    font-size: 1.5em;
+    color: #97cedc;
+    font-size: 1.2em;
     background: transparent;
 }
 
