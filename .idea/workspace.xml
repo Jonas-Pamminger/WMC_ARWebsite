@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="inplemented content on example.html page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +79,7 @@
       <workItem from="1636271848329" duration="716000" />
       <workItem from="1636359045976" duration="150000" />
       <workItem from="1636359309211" duration="1541000" />
+      <workItem from="1639400279434" duration="1545000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
