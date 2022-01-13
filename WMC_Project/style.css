@@ -181,8 +181,10 @@ section::before
 {
     font-size: 2em;
 }
-#backToTop
+#sticky
 {
-    float: right;
+    position: sticky;
+    bottom: 0;
+    text-align: right;
 }
 
