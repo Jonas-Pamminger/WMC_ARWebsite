@@ -187,4 +187,9 @@ section::before
     bottom: 0;
     text-align: right;
 }
+#stickyNavbar
+{
+    position: sticky;
+    top: 0;
+}
 

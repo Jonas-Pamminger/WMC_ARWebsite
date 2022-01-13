@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="inplemented content on example.html page" />
+    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed backToTop">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +85,8 @@
       <workItem from="1639400279434" duration="1545000" />
       <workItem from="1642074685577" duration="211000" />
       <workItem from="1642074974542" duration="21000" />
-      <workItem from="1642077361333" duration="27000" />
+      <workItem from="1642077352909" duration="442000" />
+      <workItem from="1642077875361" duration="336000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
@@ -102,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636271897305</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed backToTop">
+      <created>1642077494434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642077494434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix-backround" />
     <MESSAGE value="inplemented content on example.html page" />
-    <option name="LAST_COMMIT_MESSAGE" value="inplemented content on example.html page" />
+    <MESSAGE value="fixed backToTop" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed backToTop" />
   </component>
 </project>
