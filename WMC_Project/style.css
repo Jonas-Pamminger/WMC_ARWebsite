@@ -113,13 +113,13 @@ section::before
     font-size: 2em;
     margin-top: 10px;
     margin-bottom: 7px;
-    color: #97cedc;
+    color: #55B2D8;
 }
 .sec h4 {
     font-size: 1.3em;
     margin-top: 5px;
     margin-bottom: 5px;
-    color: #97cedc;
+    color: #4EC6F5;
 
 }
 .sec p
@@ -142,7 +142,7 @@ section::before
 
 .sec lh
 {
-    color: #97cedc;
+    color: #4EC6F5;
     font-size: 1.2em;
     background: transparent;
 }
@@ -184,5 +184,11 @@ section::before
 #backToTop
 {
     float: right;
+}
+.glassBackground {
+    background-color: rgba(255, 255, 255, .60);
+    backdrop-filter: blur(5px);
+    border-radius: 2%;
+    padding: 10px 20px 30px;
 }
 
