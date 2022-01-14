@@ -192,6 +192,7 @@ section::before
     position: fixed;
     top: 0;
     background: linear-gradient(to bottom, #91b793, #50727c, #292E49) fixed;
+    opacity: 80%;
 }
 .glassBackground {
     background-color: rgba(255, 255, 255, .60);

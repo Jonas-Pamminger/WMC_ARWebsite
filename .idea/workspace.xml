@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed backToTop">
+    <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,8 @@
       <workItem from="1642158653397" duration="355000" />
       <workItem from="1642159038180" duration="176000" />
       <workItem from="1642159257424" duration="178000" />
-      <workItem from="1642159478944" duration="661000" />
+      <workItem from="1642159478944" duration="976000" />
+      <workItem from="1642166477782" duration="398000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642077494434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
+      <created>1642160402177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642160402177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +145,7 @@
     <MESSAGE value="fix-backround" />
     <MESSAGE value="inplemented content on example.html page" />
     <MESSAGE value="fixed backToTop" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed backToTop" />
+    <MESSAGE value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
   </component>
 </project>
