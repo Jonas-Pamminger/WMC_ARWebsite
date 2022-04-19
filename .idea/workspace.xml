@@ -6,9 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,18 @@
       <workItem from="1642166477782" duration="398000" />
       <workItem from="1642679926427" duration="601000" />
       <workItem from="1643284210777" duration="1196000" />
-      <workItem from="1643285428338" duration="321000" />
+      <workItem from="1643285428338" duration="511000" />
+      <workItem from="1643286008561" duration="875000" />
+      <workItem from="1643615996187" duration="709000" />
+      <workItem from="1643889059620" duration="5791000" />
+      <workItem from="1644477425476" duration="108000" />
+      <workItem from="1644826409958" duration="1001000" />
+      <workItem from="1645086687899" duration="790000" />
+      <workItem from="1646639959520" duration="1287000" />
+      <workItem from="1647517619100" duration="1151000" />
+      <workItem from="1648122542193" duration="605000" />
+      <workItem from="1648724496569" duration="2420000" />
+      <workItem from="1650355024614" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>

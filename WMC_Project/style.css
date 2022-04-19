@@ -116,7 +116,7 @@ section::before
     color: #55B2D8;
 }
 .sec h4 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     margin-top: 5px;
     margin-bottom: 5px;
     color: #439FB3;
@@ -197,7 +197,30 @@ section::before
 .glassBackground {
     background-color: rgba(255, 255, 255, .60);
     backdrop-filter: blur(5px);
-    border-radius: 2%;
+    border-radius: 10px;
     padding: 10px 20px 30px;
+}
+
+.imageForHomePage
+{
+    float:right;
+    width: 350px;
+    height: 150px;
+}
+
+#gridBoxesForItems
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 150px 150px;
+    grid-template-areas: "a a";
+}
+
+.gridItem{
+    display: flex;
+    background-color: rgba(255, 255, 255, .70);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
