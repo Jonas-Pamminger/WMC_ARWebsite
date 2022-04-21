@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
+      <change afterPath="$PROJECT_DIR$/WMC_Project/Moon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WMC_Project/pictures/Moon.glb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_21_04_2022_13_17__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_21_04_2022_13_17__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/AR-Item-Pages/Moon.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MoonRef/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -57,6 +60,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Schule\WMC\Gruppenarbeit\MoonRef\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Schule\WMC\Gruppenarbeit\WMC_Project" />
+      <recent name="C:\Schule\WMC\Gruppenarbeit\WMC_Project\pictures" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -103,7 +115,8 @@
       <workItem from="1648122542193" duration="605000" />
       <workItem from="1648724496569" duration="2420000" />
       <workItem from="1650355024614" duration="1401000" />
-      <workItem from="1650538028713" duration="1275000" />
+      <workItem from="1650538028713" duration="1756000" />
+      <workItem from="1650539814447" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
