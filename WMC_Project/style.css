@@ -212,7 +212,7 @@ section::before
 {
     display: grid;
     grid-template-columns: 50% 50%;
-    grid-template-rows: 150px 150px;
+    grid-template-rows: 300px 300px;
     grid-template-areas: "a a";
 }
 
@@ -221,6 +221,9 @@ section::before
     background-color: rgba(255, 255, 255, .70);
     margin-left: auto;
     margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
     text-align: center;
+
 }
 
