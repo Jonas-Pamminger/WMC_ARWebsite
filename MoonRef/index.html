@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        model-viewer{
+            width: 1000px;
+            height: 500px;
+            margin: 0 auto;
+        }
+        body{
+            background-color: black;
+        }
+        pre{
+            color: aliceblue;
+            width: 1000px;
+            height: 500px;
+            margin-left: 550px;
+        }
+    </style>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+</head>
+<body>
+<model-viewer src="assets/Moon.glb" camera-controls auto-rotate></model-viewer>
+<pre>
+    The Things we know.
+    The Things we know that we don't know.
+    The Things we don't know that we don't know.
+</pre>
+</body>
+</html>
