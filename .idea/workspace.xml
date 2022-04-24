@@ -6,12 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/contacts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,13 +22,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fix_Navbar" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,25 +44,41 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1zl6bjdQYsONHD9fHs80gL7vV7J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-    <property name="vue.rearranger.settings.migration" value="true" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/quickGet/MCS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "C:\\Storage\\IDE\\JetBrains\\apps\\WebStorm\\ch-0\\221.5080.193\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Peace\OneDrive\Desktop\WMC_ARWebsite\WMC_Project\src\structure" />
+      <recent name="C:\Users\Peace\OneDrive\Desktop\WMC_ARWebsite\WMC_Project\src\styles" />
+      <recent name="C:\Users\Peace\OneDrive\Desktop\WMC_ARWebsite\WMC_Project\src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,6 +125,11 @@
       <workItem from="1648122542193" duration="605000" />
       <workItem from="1648724496569" duration="2420000" />
       <workItem from="1650355024614" duration="1401000" />
+      <workItem from="1650538788502" duration="629000" />
+      <workItem from="1650607092957" duration="515000" />
+      <workItem from="1650614242483" duration="290000" />
+      <workItem from="1650617728053" duration="130000" />
+      <workItem from="1650621657449" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="fix-backround">
       <created>1634834986300</created>
@@ -148,6 +171,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/WMC_Project/src/scripts/test.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -159,13 +187,17 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="fix-backround" />
     <MESSAGE value="inplemented content on example.html page" />
     <MESSAGE value="fixed backToTop" />
     <MESSAGE value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
     <option name="LAST_COMMIT_MESSAGE" value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

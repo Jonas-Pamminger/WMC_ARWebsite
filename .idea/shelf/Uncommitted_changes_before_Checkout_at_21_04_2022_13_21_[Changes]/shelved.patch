@@ -1,0 +1,91 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c9df30aa-ac91-4812-84c2-23948aa0833a\" name=\"Changes\" comment=\"fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/about.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/about.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/contacts.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/contacts.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/example.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/example.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/realExamplePage.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/realExamplePage.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/WMC_Project/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/WMC_Project/style.css\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"fix_Navbar\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"UPDATE_TYPE\" value=\"REBASE\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1zl6bjdQYsONHD9fHs80gL7vV7J\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"project.propVCSSupport.Mappings\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c9df30aa-ac91-4812-84c2-23948aa0833a\" name=\"Changes\" comment=\"\" />\r\n      <created>1634710400566</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1634710400566</updated>\r\n      <workItem from=\"1634710401945\" duration=\"37000\" />\r\n      <workItem from=\"1634740735203\" duration=\"3936000\" />\r\n      <workItem from=\"1634795371214\" duration=\"1325000\" />\r\n      <workItem from=\"1634814554506\" duration=\"1328000\" />\r\n      <workItem from=\"1634831119050\" duration=\"27000\" />\r\n      <workItem from=\"1634831261284\" duration=\"3579000\" />\r\n      <workItem from=\"1635165961030\" duration=\"1000\" />\r\n      <workItem from=\"1635183260629\" duration=\"1000\" />\r\n      <workItem from=\"1635235493829\" duration=\"2118000\" />\r\n      <workItem from=\"1636019696752\" duration=\"3258000\" />\r\n      <workItem from=\"1636183038441\" duration=\"2703000\" />\r\n      <workItem from=\"1636210879573\" duration=\"621000\" />\r\n      <workItem from=\"1636211515186\" duration=\"3954000\" />\r\n      <workItem from=\"1636271848329\" duration=\"716000\" />\r\n      <workItem from=\"1636359045976\" duration=\"150000\" />\r\n      <workItem from=\"1636359309211\" duration=\"1541000\" />\r\n      <workItem from=\"1639400279434\" duration=\"1545000\" />\r\n      <workItem from=\"1642158037975\" duration=\"575000\" />\r\n      <workItem from=\"1642158653397\" duration=\"355000\" />\r\n      <workItem from=\"1642159038180\" duration=\"176000\" />\r\n      <workItem from=\"1642159257424\" duration=\"178000\" />\r\n      <workItem from=\"1642159478944\" duration=\"976000\" />\r\n      <workItem from=\"1642166477782\" duration=\"398000\" />\r\n      <workItem from=\"1642679926427\" duration=\"601000\" />\r\n      <workItem from=\"1643284210777\" duration=\"1196000\" />\r\n      <workItem from=\"1643285428338\" duration=\"511000\" />\r\n      <workItem from=\"1643286008561\" duration=\"875000\" />\r\n      <workItem from=\"1643615996187\" duration=\"709000\" />\r\n      <workItem from=\"1643889059620\" duration=\"5791000\" />\r\n      <workItem from=\"1644477425476\" duration=\"108000\" />\r\n      <workItem from=\"1644826409958\" duration=\"1001000\" />\r\n      <workItem from=\"1645086687899\" duration=\"790000\" />\r\n      <workItem from=\"1646639959520\" duration=\"1287000\" />\r\n      <workItem from=\"1647517619100\" duration=\"1151000\" />\r\n      <workItem from=\"1648122542193\" duration=\"605000\" />\r\n      <workItem from=\"1648724496569\" duration=\"2420000\" />\r\n      <workItem from=\"1650355024614\" duration=\"1401000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"fix-backround\">\r\n      <created>1634834986300</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1634834986300</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"inplemented content on example.html page\">\r\n      <created>1635236832437</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1635236832437</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"inplemented content on example.html page\">\r\n      <created>1636271897305</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1636271897305</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"fixed backToTop\">\r\n      <created>1642077494434</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1642077494434</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.\">\r\n      <created>1642160402177</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1642160402177</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"fix-backround\" />\r\n    <MESSAGE value=\"inplemented content on example.html page\" />\r\n    <MESSAGE value=\"fixed backToTop\" />\r\n    <MESSAGE value=\"fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,13 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="c9df30aa-ac91-4812-84c2-23948aa0833a" name="Changes" comment="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text.">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/about.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/contacts.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/example.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/realExamplePage.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/WMC_Project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WMC_Project/style.css" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Moon Example/.idea/workspace.xml" beforeDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -28,7 +22,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="fix_Navbar" />
++        <entry key="$PROJECT_DIR$" value="TypeScriptFabianBaitura" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -43,24 +37,24 @@
+     </file-type-list>
+   </component>
+   <component name="ProjectId" id="1zl6bjdQYsONHD9fHs80gL7vV7J" />
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">
+-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+-    <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+-    <property name="nodejs_package_manager_path" value="npm" />
+-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+-    <property name="vue.rearranger.settings.migration" value="true" />
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "node.js.selected.package.tslint": "(autodetect)",
++    "ts.external.directory.path": "C:\\Storage\\IDE\\JetBrains\\apps\\WebStorm\\ch-0\\221.5080.193\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
++  }
++}]]></component>
++  <component name="RecentsManager">
++    <key name="MoveFile.RECENT_KEYS">
++      <recent name="C:\Users\Peace\OneDrive\Desktop\WMC_ARWebsite" />
++      <recent name="C:\Users\Peace\OneDrive\Desktop\WMC_ARWebsite\WMC_Project" />
++    </key>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+@@ -159,7 +153,6 @@
+         </entry>
+       </map>
+     </option>
+-    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="fix-backround" />
+@@ -168,4 +161,8 @@
+     <MESSAGE value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
+     <option name="LAST_COMMIT_MESSAGE" value="fixed Navbar links not working, also changed the background color of the navbar so it is visible over text." />
+   </component>
++  <component name="XSLT-Support.FileAssociations.UIState">
++    <expand />
++    <select />
++  </component>
+ </project>
+\ No newline at end of file
