@@ -227,5 +227,10 @@ section::before
 {
     width: 250px;
     height: 200px;
+    transition: transfrom .2s;
+}
+.renderGridItem:hover
+{
+    transform: scale(1.5);
 }
 
