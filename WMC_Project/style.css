@@ -231,25 +231,26 @@ section::before
     padding: 25px;
     transition: transform .2s; /* Animation */
     margin: 0 auto;
-=======
-    transition: transfrom .2s;
->>>>>>> bc4d50a036109096bdd91702b20163f5b5848886
 }
 .renderGridItem:hover
 {
     transform: scale(1.5);
 }
-.loadingScreen
+.loader {
+    border: 16px solid #f3f3f3; /* Light grey */
+    border-top: 16px solid blue;
+    border-bottom: 16px solid blue;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.centeredLoading
 {
-    background: #000000;
-    transition: transform 5s;
-    animation: rotate 5s infinite;
+    margin: 20% 45% auto;
 }
-@keyframes rotate {
-    100%
-    {
-        transform: rotate(360deg);
-    }
-
-}
-
