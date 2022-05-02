@@ -227,10 +227,26 @@ section::before
 {
     width: 250px;
     height: 200px;
-    transition: transfrom .2s;
+    border-radius: 20%;
+    padding: 25px;
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
 }
 .renderGridItem:hover
 {
     transform: scale(1.5);
+}
+.loadingScreen
+{
+    background: #000000;
+    transition: transform 5s;
+    animation: rotate 5s infinite;
+}
+@keyframes rotate {
+    100%
+    {
+        transform: rotate(360deg);
+    }
+
 }
 
