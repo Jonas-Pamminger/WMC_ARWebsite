@@ -231,6 +231,9 @@ section::before
     padding: 25px;
     transition: transform .2s; /* Animation */
     margin: 0 auto;
+=======
+    transition: transfrom .2s;
+>>>>>>> bc4d50a036109096bdd91702b20163f5b5848886
 }
 .renderGridItem:hover
 {
