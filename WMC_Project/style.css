@@ -229,7 +229,7 @@ section::before
     height: 200px;
     border-radius: 20%;
     padding: 25px;
-    transition: transform .2s; /* Animation */
+    transition: transform .2s;
     margin: 0 auto;
 }
 .renderGridItem:hover
@@ -237,7 +237,7 @@ section::before
     transform: scale(1.5);
 }
 .loader {
-    border: 16px solid #f3f3f3; /* Light grey */
+    border: 16px solid #f3f3f3;
     border-top: 16px solid blue;
     border-bottom: 16px solid blue;
     border-radius: 50%;
