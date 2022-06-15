@@ -1,0 +1,14 @@
+model-viewer{
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+}
+body{
+    background-color: black;
+}
+pre{
+    color: aliceblue;
+    width: 1000px;
+    height: 500px;
+    margin-left: 550px;
+}

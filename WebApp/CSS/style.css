@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+header
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10000;
+}
+header .logo
+{
+    color: #FFFFFF;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+header ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul li
+{
+    list-style: none;
+    margin-left: 20px;
+    background: transparent;
+}
+header ul li a
+{
+    background: transparent;
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #FFFFFF;
+    border-radius: 20px;
+}
+header ul li a:hover,
+header ul li a.active
+{
+    background: #FFFFFF;
+    color: #2b1055;
+}
+section
+{
+    background: transparent;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+section::before
+{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+
+}
+#header
+{
+    position: absolute;
+    color: #FFFFFF;
+    white-space: nowrap;
+    font-size: 7.5vw;
+    z-index: 9;
+    font-family: Roboto-Mono;
+}
+#exploreBtn
+{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 40px;
+    background: #FFFFFF;
+    color: #2b1055;
+    font-size: 1.5em;
+    z-index: 9;
+    transform: translateY(120px);
+}
+.sec
+{
+    position: relative;
+    padding: 100px;
+}
+.sec h2
+{
+    font-size: 4em;
+    margin-top: 10px;
+    color: #55B2D8;
+    font-family: Roboto-Mono;
+}
+.sec h3
+{
+    font-size: 2em;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    color: #55B2D8;
+}
+.sec h4 {
+    font-size: 1.2em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #439FB3;
+
+}
+.sec p
+{
+    font-size: 1.1em;
+    color: #FFFFFF;
+}
+.sec ul
+{
+    color: #FFFFFF;
+    font-size: 1.1em;
+    list-style-position: inside;
+    background: transparent;
+}
+.sec ul li
+{
+    color: #FFFFFF;
+    background: transparent;
+}
+
+.sec lh
+{
+    color: #439FB3;
+    font-size: 1.2em;
+    background: transparent;
+}
+
+#exampleBtn
+{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 30px;
+    border-radius: 40px;
+    background: #FFFFFF;
+    color: #2b1055;
+    font-size: 1.5em;
+    transform: translateY(20px);
+    z-index: 9;
+}
+#pageContent
+{
+    background: linear-gradient(to bottom, #91b793, #50727c, #292E49) fixed;
+}
+#imprint
+{
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    column-gap: 20px;
+}
+#imprint a
+{
+    color: #999da2;
+    text-decoration: none;
+}
+#imprint h3
+{
+    font-size: 2em;
+}
+#sticky
+{
+    position: sticky;
+    bottom: 0;
+    text-align: right;
+}
+#fixedNavbar
+{
+    position: fixed;
+    top: 0;
+    background: linear-gradient(to bottom, #91b793, #50727c, #292E49) fixed;
+    opacity: 80%;
+}
+.glassBackground {
+    background-color: rgba(255, 255, 255, .60);
+    backdrop-filter: blur(5px);
+    border-radius: 10px;
+    padding: 10px 20px 30px;
+}
+
+.imageForHomePage
+{
+    float:right;
+    width: 350px;
+    height: 150px;
+}
+
+#gridBoxesForItems
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 300px 300px;
+    grid-template-areas: "a a";
+}
+
+.gridItem{
+    display: flex;
+    background-color: rgba(255, 255, 255, .70);
+    margin: 3em auto;
+    text-align: center;
+
+}
+.renderGridItem
+{
+    width: 250px;
+    height: 200px;
+    border-radius: 20%;
+    padding: 25px;
+    transition: transform .2s;
+    margin: 0 auto;
+}
+.renderGridItem:hover
+{
+    transform: scale(1.5);
+}
+.loader {
+    border: 16px solid #f3f3f3;
+    border-top: 16px solid blue;
+    border-bottom: 16px solid blue;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+.centeredLoading
+{
+    margin: 20% 45% auto;
+}
