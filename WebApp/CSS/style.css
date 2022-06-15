@@ -47,15 +47,15 @@ header .right
               and (-webkit-max-device-pixel-ratio: 3){
     html {
         width: 100%;
-        font-size: 24px;
+        font-size: 40px;
     }
     #fixedNavbar
     {
-        font-size: 35px;
+        font-size: 40px;
     }
-    ul li p
+    .glassBackground
     {
-        font-size: 24px;
+        font-size: 10px;
     }
 }
 header ul li a

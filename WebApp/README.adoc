@@ -64,12 +64,10 @@ world using AR
 
 ** Leader of the structure of the website
 
-* Jonas Pamminger
-
-** Leader of backend
-
 ** main author of the information page
 
 * Fabian Baitura
+
+** Leader of backend
 
 ** Content manager
