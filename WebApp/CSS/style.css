@@ -27,6 +27,7 @@ header .logo
     font-size: 2em;
     text-transform: uppercase;
     letter-spacing: 2px;
+    width: 60%;
 }
 header ul
 {
@@ -34,11 +35,28 @@ header ul
     justify-content: center;
     align-items: center;
 }
-header ul li
+header .right
 {
     list-style: none;
     margin-left: 20px;
     background: transparent;
+    width: 30%;
+}
+@media all and (device-width: 390px)
+              and (device-height: 844px)
+              and (-webkit-max-device-pixel-ratio: 3){
+    html {
+        width: 100%;
+        font-size: 24px;
+    }
+    #fixedNavbar
+    {
+        font-size: 35px;
+    }
+    ul li p
+    {
+        font-size: 24px;
+    }
 }
 header ul li a
 {
@@ -161,7 +179,7 @@ section::before
 }
 #pageContent
 {
-    background: linear-gradient(to bottom, #91b793, #50727c, #292E49) fixed;
+    background: linear-gradient(to bottom, #91b793, #50727c, #292E49);
 }
 #imprint
 {
