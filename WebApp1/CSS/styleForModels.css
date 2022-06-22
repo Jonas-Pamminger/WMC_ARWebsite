@@ -1,0 +1,41 @@
+model-viewer{
+    width: 750px;
+    height: 500px;
+    margin: 0 auto;
+}
+body{
+    background-color: black;
+}
+pre{
+    color: aliceblue;
+    width: 1000px;
+    height: 500px;
+    margin-left: 550px;
+}
+/*
+@media all and (device-width: 390px)
+and (device-height: 844px)
+and (-webkit-max-device-pixel-ratio: 3){
+    .models model-viewer
+    {
+        width: 300px;
+        height: 150px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+@media only screen
+and (min-width: 1024px)
+and (max-height: 1366px)
+and (-webkit-min-device-pixel-ratio: 1.5) {
+    .models model-viewer
+    {
+        width: 750px;
+        height: 300px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+*/
+
+
